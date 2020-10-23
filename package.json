@@ -1,7 +1,7 @@
 {
   "name": "react-native-react-sum-up",
   "title": "React Native React Sum Up",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Bridge To use the SumUp SDK",
   "main": "index.js",
   "scripts": {
